@@ -4,6 +4,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class part2 {
+
     public static void main(String[] args) {
         int[][] A = readMatrixFromFile("matrix.txt", 5, 5);
         if (A != null) {

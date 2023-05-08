@@ -11,7 +11,7 @@ public class Main {
         }
 
         double[] B = new double[10];
-        for (int k = 1; k <= 9; k++) {
+        for (int k = 0; k <= 9; k++) {
             B[k] = 20 * Math.cos(k) - k;
         }
         double[] C = new double[10];

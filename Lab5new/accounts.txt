@@ -1,0 +1,11 @@
+Card number: 1111 2222 3333 4444, | Client surname: Smith, | Client address: 123 Main St, | Balance: 100200.0, Is credit: true, | Date issued: 01/01/2020, | Expiration date: 01/01/2025
+Card number: 1281 0022 0253 4964, | Client surname: Ander, | Client address: 123 Main St, | Balance: 10010.0, Is credit: true, | Date issued: 01/01/2020, | Expiration date: 01/01/2025
+Card number: 1281 2722 0253 4534, | Client surname: Baker, | Client address: 789 Maple St, | Balance: 2000.0, Is credit: true, | Date issued: 01/01/2018, | Expiration date: 01/01/2023
+Card number: 5005 6676 7677 0388, | Client surname: Williams, | Client address: 789 Maple St, | Balance: 20000.0, Is credit: true, | Date issued: 01/01/2018, | Expiration date: 01/01/2023
+Card number: 7855 0266 1234 8858, | Client surname: Mitchell , | Client address: 789 Maple St, | Balance: 2080.0, Is credit: true, | Date issued: 01/01/2018, | Expiration date: 01/01/2023
+Card number: 9927 0266 1234 8858, | Client surname: Taylor, | Client address: 123 Main St, | Balance: 1000.0, Is credit: true, | Date issued: 01/01/2020, | Expiration date: 01/01/2025
+Card number: 1355 7896 7677 1478, | Client surname: Holland, | Client address: 123 Main St, | Balance: 889157.35, Is credit: false, | Date issued: 01/01/2020, | Expiration date: 01/01/2025
+Card number: 1581 2722 0253 4534, | Client surname: Davidson, | Client address: 456 Oak St, | Balance: 99000.0, Is credit: false, | Date issued: 01/01/2019, | Expiration date: 01/01/2024
+Card number: 1955 7861 7677 1978, | Client surname: Mason, | Client address: 456 Oak St, | Balance: 5000.0, Is credit: false, | Date issued: 01/01/2019, | Expiration date: 01/01/2024
+Card number: 5095 6000 7677 0318, | Client surname: Anderson, | Client address: 456 Oak St, | Balance: 5000.0, Is credit: false, | Date issued: 01/01/2019, | Expiration date: 01/01/2024
+Card number: 5555 6666 7777 8888, | Client surname: Johnson, | Client address: 456 Oak St, | Balance: 505600.0, Is credit: false, | Date issued: 01/01/2019, | Expiration date: 01/01/2024
